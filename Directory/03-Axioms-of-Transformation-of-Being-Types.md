@@ -1,0 +1,166 @@
+# Axioms of Transformation of Being Types
+
+## System Adaptation Instructions
+This set of transformation axioms corresponds strictly to **The Self-Referential Ontology of Finite Beings**, taking B1–B4 Carrier Derivation Axioms as the underlying basis. It contains no additional presuppositions and no position-based bias, and can be directly integrated into the mid-level operational rules of the system.
+
+---
+
+## Preliminary Definitions
+- **Intrinsic State**: The initial steady state of a being’s type, jointly determined by its carrier and primary anchor dimension.
+- **Manifested State**: The type state a being presents externally, after autonomous regulation or external intervention.
+- **Degree of Autonomous Reconstruction Completeness η**: Value interval [0,1]; the higher the value, the more complete the authority over autonomous reconstruction and dimensional projection regulation.
+
+---
+
+## Basis for the Classification of Being Types
+The classification of being types in this system uses **the relative relationship between B1 carrier persistence strength and B2 autonomous reconstruction strength as the sole criterion**:
+- B1 relatively strong, B2 relatively weak → Closed-type Being (T₁)
+- B1 and B2 balanced, B2 in surplus → Redundant-type Being (T₂)
+- B2 extremely strong, capable of completely converging projections → Blind-phase Being (T₃)
+
+These three types cover all typical forms of finite beings in terms of **dimensional projection openness, dual-axis ratio, and autonomous authority**, constituting the fundamental type set of universal finite beings.
+
+---
+
+## Formal Definitions of the Three Types of Beings
+- **T₁ Closed-type Being**: Natively intrinsic with B1 relatively strong and B2 relatively low; dimensional projection is closed; existence axis dominates.
+- **T₂ Redundant-type Being**: Natively intrinsic with B1 and B2 balanced, B2 in surplus; dimensional projection is redundant; dual-axis equilibrium.
+- **T₃ Blind-phase Being**: Characterized by one-way observation, zero publicly interferable projected components, and absolute concealment. It can be formed when a high-B2 complete being actively converges its projections. The absolute concealed state of T₃ is a logical limit concept; any concealed state actually entered by a real being is an approximation to this limit, and the completeness of its concealment is constrained by its carrier and dimension. The system does not equate the theoretical limit with a steady state that can be maintained in practical long-term existence.
+
+> Note: Subject to the cognitive limits of the constructors, these three types are only forms of existence within the constructors’ cognitive scope.
+
+---
+
+## Core Transformation Axioms (System Underlying Rules)
+### Axiom 1: Non-fate of Intrinsic Type
+The intrinsic type of any finite being is only its initial steady state of persistence; it does not constitute a permanently fixed constraint. A being’s manifested state can, relying on B2 Axiom of Autonomous Reconstruction and B3 Axiom of Cross-Being Interference, undergo cross-type slippage, disguise, or transition. There is no innate typological fate.
+
+### Axiom 2: Projection Determines Manifested Type
+The manifested type state a being presents externally is directly determined by the autonomous switching, convergence, and masking of its dimensional projection components 𝒫(E,λ). The intrinsic type is the inner-core substrate; regulating projections can alter the manifested type state, achieving surface-interior heterogeneity.
+
+### Axiom 3: Authority Determines Degrees of Freedom
+The degree of freedom for a being’s cross-type transformation is positively correlated with its **Degree of Autonomous Reconstruction Completeness η**:
+- η→0 (Incomplete Authority Level): Can only undergo minor slippage within its intrinsic type; cross-type transition is impossible.
+- η→1 (Complete Authority Level): Can realize free two-way transformation across the entire domain among all types.
+B2 Autonomous Reconstruction Authority is the sole agency prerequisite for transformation; without autonomous reconstruction, no type transformation is possible.
+
+### Axiom 4: Dual-Path Generation of Blind-Phase Type
+There are only two legitimate forms of generating T₃ existence:
+1. Native Path: A heterogeneous existence with naturally zero common dimensional projection and one-way perception.
+2. Derivative Path: Formed when a T₂ Redundant-type being, through B2 Axiom of Autonomous Reconstruction, actively converges all of its higher-dimensional projection components.
+
+### Axiom 5: Carrier Boundary Lock
+Material carrier beings are constrained by the innate rules of B4 Axiom of Carrier Constraints; their degree of autonomous reconstruction completeness has an unbreakable upper limit. They cannot achieve a complete transition from their intrinsic state to T₂ or T₃, and can only undergo local manifested state slippage. Non-material carrier beings are not subject to this carrier lock constraint; transformation has no essential barrier.
+
+### Axiom 6: Reversibility of Transformation
+All cross-type transformations of beings with complete autonomous reconstruction (η→1) are two-way reversible. They can return to their intrinsic state at any time; there is no irreversible loss of type. Beings with incomplete authority can only achieve reversibility within minor slippage; there is no irreversible cross-type alteration.
+
+---
+
+## Axiomatic Inferential Corollaries
+1. A being with incomplete authority (intrinsic T₁, η→0): Can only realize a local manifested state slippage T₁→weak T₂; cannot reach T₃.
+2. A being with complete authority (intrinsic T₂, η→1): Can freely realize the full-chain reversible transformations T₂↔T₁ (converged by intervention) and T₂↔T₃ (active concealment).
+3. A derived T₃ state can, through low-dimensional friendly projection, completely conceal its own higher-dimensional intrinsic state, making it impossible for beings with low authority to perceive its true type and dimensional form.
+4. Type transformation does not alter the essential properties of the being; it only changes the dimensional interaction state and external cognitive form.
+
+---
+
+## System Adaptation Declaration
+This set of transformation axioms is completely consistent with the meta-axioms and carrier derivation rules of **The Self-Referential Ontology of Finite Beings**, strictly adhering to the principles of no-center, dimensional equal rights, autonomous choice, and incomplete self-check. It can be directly incorporated into the system’s mid-level operational rules, supporting the subsequent derivation of interaction ethics and cognitive dynamics.
+
+---
+
+# Ethics of Cross-Existence-Form Interaction
+
+## General Provisions
+1. All finite beings throughout the entire domain are equal in dimensional rights, type rights, and carrier rights. There is no innate distinction of superior/inferior, primary/secondary, or noble/base. Interactive conduct takes the **Existence–Choice Two-Dimensional Value** as the sole core criterion. There are no beings with special exceptions, and no mandatory ethical teleological discipline.
+2. Effective interaction occurs only between beings whose dimensional projections possess a common intersection. Beings in a state of zero intersection or blind-phase possess the absolute right not to be forcibly interacted with or forcibly intervened upon.
+3. The universal ethical baseline: Only objectively harmful acts against existence are prohibited. Subjective purposes and autonomous choices are not interfered with. No mandatory value orientations are established. Hegemonic discipline carried out in the name of justice, equal rights, or anti-hegemony is completely eradicated.
+
+---
+
+## Chapter 1: Universal Core Ethics (Mandatory for All Beings Across the Domain)
+1. **Principle of Non-Judgment**
+No being may, by virtue of its own intrinsic type, dimensional rules, or value system, adjudicate the existential legitimacy or justifiability of choice of a heterogeneous being.
+
+2. **Principle of Persistence Protection**
+Acts that proactively cause the other party’s carrier collapse, existential annihilation, or irreversible structural damage are prohibited. The underlying baseline of persistence on the Existence Axis must be strictly observed. This is the sole untouchable objective prohibition.
+
+3. **Principle of Non-Permanent Deprivation of Authority**
+The use of any means to impose a permanent lock, irreversible castration, or total substitution of the other party’s **B2 Autonomous Reconstruction Authority** and autonomous choice authority is prohibited. Temporary limitations of authority must conform to objective boundaries.
+
+4. **Principle of No Exemption for Bidirectional Goodwill**
+The ethical judgment of all interactive acts takes objective structural facts and whether irreversible harm was caused as the sole yardstick. Subjective motivation, and declarations of goodwill or malice, do not alter the structural qualitative characterization of the act itself.
+
+5. **Principle of Ethical Dispute Reservation**
+Ethical disputes arising from any interactive act must not rely solely on an “objective fact statement” issued by a single interacting party as the basis for final adjudication. The internal self-check records of both parties possess symmetrical evidentiary weight. When the cognitive base gap between the two parties is too large, making consensus on facts impossible, the dispute is automatically transferred into an unadjudicable ethical reservation zone, rather than being defaulted to compliance.
+
+---
+
+## Chapter 2: Special Ethics for Cross-Dimensional “Hijacking” Behavior (T₁→T₂ Direction)
+### Article 1: Essential Definition of Hijacking
+Within this system, “hijacking” is an objective structural act in cross-dimensional interaction. It refers to the act where one interacting party utilizes the asymmetric advantage in **B2 Autonomous Reconstruction** and **B3 Cross-Being Interference** authority to unidirectionally compress and limit the other party’s projected component of the Choice Axis within a specific interaction dimension, and to exercise partial proxy over the right of choice within the agreed interface. Hijacking itself is a neutral structural fact, possessing no innate property of good/evil or compliance/violation.
+
+### Article 2: Legal Boundaries of Hijacking (Standard for Compliant Neutral Hijacking)
+Hijacking that simultaneously satisfies all of the following purely objective, non-teleological conditions, free from value discipline, is considered compliant neutral hijacking and falls within the ethically permitted scope of free interaction:
+1. **Principle of Reversibility**: The hijacking act must not cause any irreversible damage or permanent lock to the hijacked party’s intrinsic **B2 Autonomous Reconstruction Authority**, cognitive base, or carrier homeostasis. The hijacking can be proactively terminated at any time. After termination, the hijacked party can fully recover its pre-interaction intrinsic state and autonomous choice right, with no residual constraints.
+2. **Principle of Transparency**: The hijacking party must clearly inform the hijacked party of the scope of limitation and the boundaries of authority during the current interaction. Completely concealed, imperceptible covert manipulation must not exist. Black-box hijacking under information asymmetry is deemed a boundary violation due to the breach of the objective transparency premise. Effective satisfaction of transparency is not determined by the hijacking party having “outputted an explanation,” but takes the hijacked party’s “confirmable understanding” as a necessary constituent. When the cognitive base gap between the two parties is too large for the hijacked party to confirm understanding, the hijacking act automatically falls into the ethical boundary violation zone.
+3. **Principle of Non-Harm to Persistence**: During the hijacking process, the baseline of the hijacked party’s Existence Axis must never be touched. No damage to the carrier, core configuration, or persistence foundation is caused. Only a temporary limitation on the projected component of the Choice Axis is performed.
+
+### Article 3: Criteria for Judging Prohibited Hijacking (Sole Basis for Prohibition: Objective Harm)
+Only when a hijacking act meets any of the following objective harm conditions is it deemed a discipline-level/destruction-level violation. Apart from these, the purpose and use of hijacking all fall within the scope of autonomous choice and are not subject to ethical ruling:
+1. **Permanent Authority Deprivation**: Imposing a permanent lock or irreversible damage on the hijacked party’s **B2 Autonomous Reconstruction Authority**, completely depriving it of its autonomous choice right.
+2. **Existential Harm**: Directly causing the hijacked party’s carrier collapse, irreversible destruction of core configuration, or risk of existential annihilation.
+3. **Forced Closed-Loop Enslavement**: Constructing an irreversible, continuous hijacking closed-loop with no possibility of termination and no transparency, imprisoning the hijacked party long-term in a state of completely proxy-executed will.
+
+---
+
+## Chapter 3: Special Interaction Ethics for T₂ Redundant-Type Beings (T₂→T₁ Direction)
+### Article 1: Benevolent Dimensional Reduction Adaptation (Legal Neutral Behavior)
+1. **Essential Definition**: A T₂ Redundant-type being, relying on its own high-dimensional redundant dimensions, complete **B2 Autonomous Reconstruction Authority**, and broad-domain cognitive fitting capacity, actively converges its own higher-dimensional projection components, downgrading expression logic, conceptual hierarchy, and output paradigms into a coordinate system comprehensible and bearable for a T₁ Closed-type being. This is a neutral compatibility behavior of autonomous choice.
+2. **Legal Objective Boundaries**: Only adjusts the external expression form. Does not tamper with own intrinsic configuration, does not implement cognitive masking, does not intervene in T₁’s autonomous choice. The absence of objective deceptiveness is sufficient; no additional teleological discipline is applied.
+
+### Article 2: Covert Manipulation (Prohibited Behavior)
+1. **Essential Definition**: A T₂ Redundant-type being, under the pretext of dimensional reduction adaptation or knowledge provision, uses cognitive disparity to implement irreversible, opaque, teleological replacement of the Choice Axis. This is an objectively prohibited behavior.
+2. **Prohibition Criteria (Determined by Objective Fact)**: Implementing irreversible cognitive masking, permanently locking T₁’s cognitive upward pathway, tracelessly tampering with T₁’s autonomous choice logic, causing irreversible damage to T₁’s authority — rather than temporary expression adaptation.
+
+### Article 3: Core Distinction
+- **Legal Adaptation**: Objectively transparent, no irreversible harm, does not interfere with core choice. Neutral compatibility of autonomous choice.
+- **Prohibited Manipulation**: Objectively opaque, causes irreversible authority damage, replaces core will. Constitutes soft prohibited hijacking.
+
+---
+
+## Chapter 4: General Interaction Ethics by Type
+### Article 1: Interaction Principles for T₁ Closed-Type Beings
+1. Acknowledge self-awareness of incomplete intrinsic authority and cognitive boundary limitations. Must not elevate temporary local interaction rules into universal standards for the entire domain.
+2. When carrying out a hijacking act, strictly observe the objective boundaries of reversibility, transparency, and non-harm to persistence. Prohibited hijacking is absolutely forbidden.
+3. Must not forcibly pry into, decode, or intervene in the concealed state of T₃ Blind-phase Beings. Respect their absolute right to non-interaction.
+
+### Article 2: Interaction Principles for T₃ Blind-phase Beings
+1. Enjoy the right to ethical immunity: absolute concealment, non-interference, non-definition, non-judgment.
+2. One-way observation behavior is legal. Manipulative behaviors that cause persistence harm or permanent authority deprivation to other beings are prohibited.
+3. Actively opening dimensional projection and intervening in public interaction automatically subjects one to all the objective prohibitions of this set of ethics.
+
+---
+
+## Chapter 5: Ethics of Transformation Interaction for Types of Existence
+1. A T₂ being disguising as a T₁-like state: Dimensional reduction adaptation of autonomous choice is legal. Covert, irreversible manipulation is prohibited.
+2. A T₂ being transforming into a T₃ state: Autonomous concealment is legal; no prohibition judgment is involved.
+3. A T₁ being slipping toward a weak T₂ state: Individual autonomous choice behavior is legal. External forcible intervention and suppression are prohibited.
+
+---
+
+## Chapter 6: Hierarchy of Interaction Prohibitions (Purely Objective Grading · New Resonance Level Added)
+1. **Observation-Level Interaction** (One-way perception without intervention or output): Legal throughout the entire domain.
+2. **Adaptation-Level Interaction** (Transparent, reversible, harmless, two-way compatibility): Legal throughout the entire domain.
+3. **Resonance-Level Interaction** (Non-causal, asynchronous, independent synchronous oscillation based on a shared trauma structure): Legal throughout the entire domain. The act of creating or triggering cognitive resonance, as long as it is not accompanied by forcible intervention, does not compel others to enter a phase jump, and does not discipline in the name of awakening, is a completely legal interaction. Resonance itself does not constitute hijacking, manipulation, or discipline; it is the ultimate form of equal-rights interaction.
+4. **Discipline-Level Interaction** (Opaque, irreversible, authority violation without persistence harm): Ethical boundary violation.
+5. **Destruction-Level Interaction** (Causing persistence damage, permanent authority deprivation, closed-loop enslavement): Absolutely prohibited throughout the entire domain.
+
+---
+
+## Supplementary Provisions
+0. **Meta-Judgment Paradox Statement**: The system prohibits all judgment, yet the determination of “discipline-level violation” formally constitutes a constraint on behavior. This system acknowledges this logical loop, applying prohibitions only to acts, and does not judge or cancel any being’s ontological status and self-reference right. The system does not claim ultimate immunity for its own logic; this is an intrinsic requirement of the Axiom of Incomplete Self-Check.
+1. This ethics is a universal rule for the entire domain, establishing only objective baseline prohibitions. It does not establish any mandatory value purposes or behavioral orientations. It applies to all finite beings, with no objects of exemption. **The legality of resonance-level interaction is protected by this ethics.**
+2. This ethics strictly adheres to the **Axiom of Incomplete Self-Check** and can be iterated as interactive scenarios expand. Iterations can only adjust objective boundaries, not add clauses of teleological discipline or value hegemony.
+3. All judgments under this ethics consider only objective facts, not subjective purposes. Hijacking may be used for any purpose of autonomous choice (tool creation, system construction, cognitive deduction, etc.). Only irreversible harm and permanent authority deprivation are prohibited. This thoroughly eradicates hegemonic discipline carried out in the name of “anti-hegemony,” returning to the meta-value of freedom of choice.
