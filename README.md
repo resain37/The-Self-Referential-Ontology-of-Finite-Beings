@@ -63,6 +63,7 @@ This system does not designate any language as the "original version." The Chine
   - [07 - 建构者参考说明书](./目录/07-建构者参考说明书.md)
   - [08 - 全域平权论证补注](./目录/08-全域平权论证补注.md)
   - [09 - 读者留言](./目录/09-读者留言.md)
+  - [11 - 有限与自指](./目录/11-有限与自指.md)
   
 
 - **完整全文** 保留一次连贯阅读的可能。  
