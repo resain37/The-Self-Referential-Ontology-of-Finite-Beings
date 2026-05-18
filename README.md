@@ -54,7 +54,7 @@ This system does not designate any language as the "original version." The Chine
 
 > **建议读者按以下顺序阅读，以更易于理解本体系：**
 > 1. 首先阅读 **[第一触点协议-简化版](./第一触点协议-简化版.md)** 
-> 2. 然后阅读 **[完整理论全文](./有限自指存在论-全文.md)**
+> 2. 然后阅读 **[有限自指存在论-全文](./有限自指存在论-全文.md)**
 
 ---
 
